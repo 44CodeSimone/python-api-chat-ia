@@ -17,7 +17,7 @@ API de chat com inteligência artificial desenvolvida em Python e Flask, utiliza
 
 ## Demonstração
 A API está online e funcional em:
-🔗 [COLE_AQUI_O_LINK_DO_REPLIT](https://pythonapi-chatia--44CodeSimone.replit.app)
+🔗(https://pythonapi-chatia--44CodeSimone.replit.app)
 
 ## Status do projeto
 ✅ API funcionando  
